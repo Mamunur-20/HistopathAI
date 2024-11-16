@@ -1,2 +1,2 @@
 # HistopathAI
-HistopathAI: An Efficient Generalized Deep Learning Framework for Histopathology Image Classification using Supervised Contrastive Learning
+Generalized deep learning for histopathology image classification using supervised contrastive learning
